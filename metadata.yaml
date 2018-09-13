@@ -10,7 +10,12 @@ contributor:
     deathdate: 1951
     gutenberg_agent_id: '45568'
     url: http://www.gutenberg.org/2009/agents/45568
+covers:
+- cover_type: archival
+  image_path: 51561-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51561#Puritanism-and-Liberty-1603-1660-Third-Edition
 gutenberg_issued: '2016-03-26'
 gutenberg_type: Text
 identifiers:
