@@ -1,0 +1,30 @@
+_repo: Puritanism-and-Liberty-1603-1660-Third-Edition_51561
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Bell, Kenneth (Kenneth Norman)
+    aliases:
+    - Bell, K. (Kenneth Norman)
+    - Bell, Kenneth Norman
+    birthdate: 1884
+    deathdate: 1951
+    gutenberg_agent_id: '45568'
+    url: http://www.gutenberg.org/2009/agents/45568
+description: ''
+gutenberg_issued: '2016-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51561'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Commonwealth and Protectorate, 1649-1660 -- Sources'
+- !lcsh 'Great Britain -- History -- Early Stuarts, 1603-1649 -- Sources'
+- !lcc 'DA'
+- GITenberg
+title: 'Puritanism and Liberty (1603-1660)
+
+  Third Edition'
+url: http://www.gutenberg.org/ebooks/51561
